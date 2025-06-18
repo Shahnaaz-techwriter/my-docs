@@ -1,9 +1,20 @@
 site_name: My Docs site
 
+theme:
+  name: material
+  
 nav:
 - Home: index.md
 - About: about.md
 - Installation: installation.md
 - Usage: usage.md
-- FAQ: faq.md
+- FAQ: faq.md 
+
+
+
+plugins:
+- search
+
+
+
 
