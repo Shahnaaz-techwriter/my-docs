@@ -1,0 +1,9 @@
+site_name: My Docs site
+
+nav:
+- Home: index.md
+- About: about.md
+- Installation: installation.md
+- Usage: usage.md
+- FAQ: faq.md
+
